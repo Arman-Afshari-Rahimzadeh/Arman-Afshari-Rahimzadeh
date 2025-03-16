@@ -1,4 +1,3 @@
-![Banner](banner.jpg)
 <h1 align="center">Arman Afshari-Rahimzadeh</h1>
 
 <p align="center">
