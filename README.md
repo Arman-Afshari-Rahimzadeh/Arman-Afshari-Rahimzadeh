@@ -42,17 +42,17 @@ With a **strong foundation in Computer Science and AI**, I focus on **financial 
 
 ---
 
-## **🚀 Featured Projects**  
+## **🚀 Featured Project**  
 
 ### 📊 **Predicting Deutsche Bank’s Net Income**  
-📌 **Tech Stack:** Python, Pandas, XGBoost, ARIMA, Streamlit, MLflow  
+📌 **Tech Stack:** Python, , Lineaar Regression, XGBoost, ARIMA, Streamlit  
 
 ✔ **Built a hybrid ML + time-series model** for financial forecasting  
 ✔ **Developed features from historical financial data (Revenue, Expenses, Operating Income)**  
-✔ **Deployed using Streamlit & FastAPI for real-time predictions**  
+✔ **Deployed using Streamlit & StreamlitCloud for real-time predictions**  
 ✔ **Implemented CI/CD pipelines for automated model retraining**  
 
-🔗 [Project Repo]() | [Live Demo]()  
+🔗 [Project Repo](https://github.com/Arman-Afshari-Rahimzadeh/featurebased-timeseries-compare) | [Live Demo](https://predictingnetincome-deutschebank-featurebased-timeseriesmodels.streamlit.app/)  
 
 ---
 
