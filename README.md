@@ -44,7 +44,7 @@ With a **strong foundation in Computer Science and AI**, I focus on **financial 
 ## **🚀 Featured Project**  
 
 ### 📊 **Predicting Deutsche Bank’s Net Income**  
-📌 **Tech Stack:** Python, , Lineaar Regression, XGBoost, ARIMA, Streamlit  
+📌 **Tech Stack:** Python, , Linear Regression, XGBoost, ARIMA, Streamlit  
 
 ✔ **Built a hybrid ML + time-series model** for financial forecasting  
 ✔ **Developed features from historical financial data (Revenue, Expenses, Operating Income)**  
