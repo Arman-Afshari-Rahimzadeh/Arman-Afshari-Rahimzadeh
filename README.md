@@ -1,7 +1,7 @@
 <h1 align="center">Arman Afshari-Rahimzadeh</h1>
 
 <p align="center">
-📍 London, UK | ✉️ proarman1@gmail.com  
+📍 Calgary, Alberta, Canada | ✉️ proarman1@gmail.com  
 </p>
 
 <p align="center">
