@@ -24,20 +24,35 @@ With a **strong foundation in Computer Science and AI**, I focus on **financial 
 
 ## **🛠️ Technical Skills**  
 
-### **🔹 Programming & Frameworks**  
-- **Languages**: Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch), SQL (PostgreSQL, MySQL), JavaScript  
-- **ML & AI**: Supervised & Unsupervised Learning, Deep Learning, Feature Engineering  
-- **Time-Series Analysis**: ARIMA, XGBoost, LSTMs, Prophet  
+🔹 Programming Languages & Libraries
+Python: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, XGBoost, SciPy
 
-### **🔹 MLOps & Deployment**  
-- **Tools**: Streamlit, Flask, FastAPI, Docker, MLflow  
-- **CI/CD & Model Monitoring**: GitHub Actions, AWS SageMaker, Vertex AI  
-- **Cloud Platforms**: AWS (S3, Lambda), Google Cloud (BigQuery, Vertex AI), Microsoft Azure (Azure ML)  
+SQL: PostgreSQL, MySQL
 
-### **🔹 Software Engineering & Data Processing**  
-- **Version Control**: Git, GitHub  
-- **Big Data**: Spark, Dask  
-- **APIs & Automation**: RESTful APIs, Web Scraping  
+JavaScript
+
+🔹 Machine Learning & AI
+Supervised, Unsupervised, and Reinforcement Learning
+
+Deep Learning, Feature Engineering, Time-Series Forecasting
+
+🔹 MLOps & Deployment
+Streamlit, Flask, FastAPI, Docker
+
+CI/CD for ML, Model Monitoring
+
+🔹 Cloud & Big Data
+AWS: S3, Lambda
+
+Google Cloud: Vertex AI, BigQuery
+
+Microsoft Azure: Azure ML
+
+🔹 Data Visualization & BI Tools
+Tableau, Power BI, Matplotlib, Seaborn, Excel
+
+🔹 Tools & Version Control
+Git, GitHub 
 
 ---
 
