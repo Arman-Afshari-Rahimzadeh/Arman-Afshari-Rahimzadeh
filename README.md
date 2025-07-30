@@ -42,7 +42,8 @@ Streamlit, Flask, FastAPI, Docker
 CI/CD for ML, Model Monitoring
 
 🔹 **Cloud & Big Data
-AWS:** S3, Lambda
+AWS:** 
+S3, Lambda
 
 Google Cloud: Vertex AI, BigQuery
 
