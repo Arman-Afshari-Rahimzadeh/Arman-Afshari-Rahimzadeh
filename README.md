@@ -1,7 +1,7 @@
 <h1 align="center">Arman Afshari-Rahimzadeh</h1>
 
 <p align="center">
-📍 Calgary, Alberta, Canada | ✉️ proarman1@gmail.com  
+📍 Calgary, Alberta, Canada 
 </p>
 
 <p align="center">
@@ -10,6 +10,9 @@
   </a>  
   <a href="https://github.com/Arman-Afshari-Rahimzadeh">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+    <a href="mailto:proarman1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Mail me-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>  
 </p>
 
