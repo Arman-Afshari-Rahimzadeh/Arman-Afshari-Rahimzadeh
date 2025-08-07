@@ -16,9 +16,13 @@
 ---
 
 ## **💡 About Me**  
-I am a **Machine Learning Engineer** specializing in **predictive modeling, time-series forecasting, and MLOps**. My expertise lies in **building scalable AI solutions, deploying ML models, and optimizing data-driven workflows**.  
+I am a dedicated Data Scientist and Machine Learning Engineer with expertise in supervised, unsupervised, and reinforcement learning. I specialize in developing and deploying scalable, end-to-end ML solutions that create data-driven decision-making—leveraging Python, SQL, and cloud platforms including AWS, Google Cloud, and Microsoft Azure.
 
-With a **strong foundation in Computer Science and AI**, I focus on **financial forecasting, deep learning, and automation**. I am passionate about **solving real-world problems using machine learning** and **deploying AI applications for business impact**.  
+My recent work includes forecasting Deutsche Bank’s net income through a hybrid modeling approach that combines XGBoost, Linear Regression, and ARIMA, connecting traditional time-series techniques with modern machine learning.
+
+I am currently pursuing a Bachelor of Computer Science with a specialization in Machine Learning and Artificial Intelligence at the University of London. 
+
+I'm eager to collaborate on impactful projects that push the boundaries of data science and machine learning. Let’s connect to explore opportunities in AI, data science, and ML engineering.  
 
 ---
 
