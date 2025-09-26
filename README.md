@@ -30,21 +30,16 @@ I'm eager to collaborate on impactful projects that push the boundaries of data 
 ## **🛠️ Technical Skills**  
 
 🔹 **Programming Languages & Libraries**
-Python
-
-SQL
+Python, SQL
 
 🔹 **Machine Learning & AI**
-Supervised, Unsupervised, and Reinforcement Learning
-
-Deep Learning, Feature Engineering, Time-Series Forecasting
+Supervised, Unsupervised, Reinforcement Learning, Deep Learning, Feature Engineering, Time-Series Forecasting
 
 🔹 **MLOps & Deployment**
 Streamlit
 
 🔹 **Cloud & Big Data**
-AWS
-S3, Lambda
+AWS (S3, Lambda)
 
 🔹 **Data Visualization & BI Tools**
 Power BI, Excel
