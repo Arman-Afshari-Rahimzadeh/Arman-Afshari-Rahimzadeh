@@ -19,11 +19,9 @@
 ---
 
 ## **💡 About Me**  
-I am a dedicated Data Scientist and Machine Learning Engineer with expertise in supervised, unsupervised, and reinforcement learning. I specialize in developing and deploying scalable, end-to-end ML solutions that create data-driven decision-making—leveraging Python, SQL, and cloud platforms including AWS, Google Cloud, and Microsoft Azure.
+I am a dedicated Data Scientist and Machine Learning Engineer with expertise in supervised, unsupervised, and reinforcement learning. I am currently pursuing a Bachelor of Computer Science with a specialization in Machine Learning and Artificial Intelligence at the University of London. I specialize in developing and deploying scalable, end-to-end ML solutions that create data-driven decision-making—leveraging Python, SQL, and cloud platforms including AWS.
 
-My recent work includes forecasting Deutsche Bank’s net income through a hybrid modeling approach that combines XGBoost, Linear Regression, and ARIMA, connecting traditional time-series techniques with modern machine learning.
-
-I am currently pursuing a Bachelor of Computer Science with a specialization in Machine Learning and Artificial Intelligence at the University of London. 
+My recent work includes forecasting Deutsche Bank’s net income through a hybrid modeling approach that combines XGBoost, Linear Regression, and ARIMA, connecting traditional time-series techniques with modern machine learning. 
 
 I'm eager to collaborate on impactful projects that push the boundaries of data science and machine learning. Let’s connect to explore opportunities in AI, data science, and ML engineering.  
 
@@ -32,11 +30,9 @@ I'm eager to collaborate on impactful projects that push the boundaries of data 
 ## **🛠️ Technical Skills**  
 
 🔹 **Programming Languages & Libraries**
-Python: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, XGBoost, SciPy
+Python
 
-SQL: PostgreSQL, MySQL
-
-JavaScript
+SQL
 
 🔹 **Machine Learning & AI**
 Supervised, Unsupervised, and Reinforcement Learning
@@ -44,20 +40,14 @@ Supervised, Unsupervised, and Reinforcement Learning
 Deep Learning, Feature Engineering, Time-Series Forecasting
 
 🔹 **MLOps & Deployment**
-Streamlit, Flask, FastAPI, Docker
+Streamlit
 
-CI/CD for ML, Model Monitoring
-
-🔹 **Cloud & Big Data
-AWS** 
+🔹 **Cloud & Big Data**
+AWS
 S3, Lambda
 
-Google Cloud: Vertex AI, BigQuery
-
-Microsoft Azure: Azure ML
-
 🔹 **Data Visualization & BI Tools**
-Tableau, Power BI, Matplotlib, Seaborn, Excel
+Power BI, Excel
 
 🔹 **Tools & Version Control**
 Git, GitHub 
