@@ -71,8 +71,8 @@ Git, GitHub
 ---
 
 ## **🏆 Education & Certifications**  
-🎓 **BSc Computer Science (ML & AI Specialization)** – University of London *(Expected 1st Class, 2026)*  
-🎓 **PGCE with Qualified Teacher Status** – University of East London *(2023)*  
+
+🎓 **BSc Computer Science (ML & AI Specialization)** – University of London *(Expected 1st Class, 2026)*
 
 ---
 
