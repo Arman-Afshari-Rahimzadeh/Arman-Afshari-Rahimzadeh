@@ -1,4 +1,4 @@
-<h1 align="center">Arman Afshari-Rahimzadeh</h1>
+<h1 align="center">Arman Afshari</h1>
 
 <p align="center">
 📍 Calgary, Alberta, Canada 
