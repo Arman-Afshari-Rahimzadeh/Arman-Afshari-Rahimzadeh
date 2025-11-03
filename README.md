@@ -49,20 +49,6 @@ Git, GitHub
 
 ---
 
-## **🚀 Featured Project**  
-
-### 📊 **Predicting Deutsche Bank’s Net Income**  
-📌 **Tech Stack:** Python, , Linear Regression, XGBoost, ARIMA, Streamlit  
-
-✔ **Built a hybrid ML + time-series model** for financial forecasting  
-✔ **Developed features from historical financial data (Revenue, Expenses, Operating Income)**  
-✔ **Deployed using Streamlit & StreamlitCloud for real-time predictions**  
-✔ **Implemented CI/CD pipelines for automated model retraining**  
-
-🔗 [Project Repo](https://github.com/Arman-Afshari-Rahimzadeh/featurebased-timeseries-compare) | [Live Demo](https://predictingnetincome-deutschebank-featurebased-timeseriesmodels.streamlit.app/)  
-
----
-
 ## **📚 Research & Learning**  
 - 🔹 **Reinforcement Learning** for financial decision-making  
 - 🔹 **MLOps workflows with Kubernetes**  
