@@ -37,7 +37,7 @@ Supervised, Unsupervised, Reinforcement Learning, Deep Learning, Feature Enginee
 Flask
 
 🔹 **Cloud & Big Data**
-AWS
+AWS, Oracle
 
 🔹 **Data Visualization & BI Tools**
 Power BI, Excel
