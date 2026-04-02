@@ -19,9 +19,9 @@
 ---
 
 ## **💡 About Me**  
-I am a dedicated Data Scientist and Machine Learning Engineer with expertise in supervised, unsupervised, and reinforcement learning. I am currently pursuing a Bachelor of Computer Science with a specialization in Machine Learning and Artificial Intelligence at the University of London. I specialize in developing and deploying scalable, end-to-end ML solutions that create data-driven decision-making—leveraging Python, SQL, and cloud platforms including AWS.
+I’m a data-driven professional with experience applying analytics and machine learning to solve complex problems and turn data into actionable insights. My background spans technical projects, teaching, and data-informed education, which has strengthened my ability to communicate complex concepts clearly and collaborate effectively across teams.
 
-I'm eager to collaborate on impactful projects that push the boundaries of data science and machine learning. Let’s connect to explore opportunities in AI, data science, and ML engineering.  
+I’ve graduated from a Bachelor of Computer Science with a specialization in Machine Learning and Artificial Intelligence at the University of London, which allowed me to combine technical knowledge with a focus on delivering impactful, real-world solutions.
 
 ---
 
